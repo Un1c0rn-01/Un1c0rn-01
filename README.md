@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Un1c0rn-01
+- 👀 I’m interested in hunting bugs
+- 🌱 I’m currently learning more about the world of cybersecurity
+- 💞️ I’m looking to collaborate on hackerone and bugcrowd (even more)
+- 📫 How to reach me: this remains private ^^
